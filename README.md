@@ -24,7 +24,7 @@ git clone https://github.com/sup-project/Covid-19-HelpDesk.git
 * Open Xampp Control Panel.
 * Start "MySQL Database", "ProFTPD", "Apache Web Server".
 * Click on Restart all and the status will show running.
-![screenshot 30](https://github.com/sup-project/Covid-19-HelpDesk/blob/master/Screen%20Shot%202020-04-13%20at%206.02.26%20PM.png)
+![screenshot 30](https://github.com/sup-projects/Covid19-Helpdesk/blob/master/Screen%20Shot%202020-04-13%20at%206.02.26%20PM.png)
 
 ### For Database:
 Kindly have a look at '_html/dbconnect.php_' file
@@ -36,7 +36,7 @@ Kindly have a look at '_html/dbconnect.php_' file
     * html/gps-tracker-master/sql/1a-track.sql
     * html/gps-tracker-master/sql/1b-riders.sql
     
-![screenshot 29](https://github.com/sup-project/Covid-19-HelpDesk/blob/master/Screen%20Shot%202020-04-13%20at%206.15.12%20PM.png)
+![screenshot 29](https://github.com/sup-projects/Covid19-Helpdesk/blob/master/Screen%20Shot%202020-04-13%20at%206.15.12%20PM.png)
 
 * Now, open it on browser "http://localhost/webucator/Covid-19%20Helpdesk/html/login.php". 
 
