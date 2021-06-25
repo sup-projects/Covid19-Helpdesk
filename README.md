@@ -24,7 +24,7 @@ git clone https://github.com/sup-project/Covid-19-HelpDesk.git
 * Open Xampp Control Panel.
 * Start "MySQL Database", "ProFTPD", "Apache Web Server".
 * Click on Restart all and the status will show running.
-![screenshot 30](https://github.com/sup-projects/Covid19-Helpdesk/blob/master/Screen%20Shot%202020-04-13%20at%206.02.26%20PM.png)
+![screenshot 30](https://github.com/chandrikadeb7/Covid-19-Helpdesk/blob/master/Screen%20Shot%202020-04-13%20at%206.02.26%20PM.png)
 
 ### For Database:
 Kindly have a look at '_html/dbconnect.php_' file
