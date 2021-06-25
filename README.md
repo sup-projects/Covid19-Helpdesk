@@ -36,7 +36,7 @@ Kindly have a look at '_html/dbconnect.php_' file
     * html/gps-tracker-master/sql/1a-track.sql
     * html/gps-tracker-master/sql/1b-riders.sql
     
-![screenshot 29](https://github.com/sup-projects/Covid19-Helpdesk/blob/master/Screen%20Shot%202020-04-13%20at%206.15.12%20PM.png)
+![screenshot 29](https://github.com/chandrikadeb7/Covid-19-Helpdesk/blob/master/Screen%20Shot%202020-04-13%20at%206.15.12%20PM.png)
 
 * Now, open it on browser "http://localhost/webucator/Covid-19%20Helpdesk/html/login.php". 
 
