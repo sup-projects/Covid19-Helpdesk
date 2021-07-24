@@ -12,7 +12,7 @@
 
 Open __Command Prompt/Terminal__ and copy-paste the following command:
 ```
-git clone https://github.com/sup-projects/Covid19-Helpdesk.git
+git clone gh repo clone sup-projects/Covid19-Helpdesk
 ```
 ### For using on localserver/ localhost
 * Download Files.
